@@ -1,8 +1,8 @@
-# <a href="https://kreja.github.io/mm">秘密花园</a>
+# <a href="https://kreja.github.io/mm/index.html">秘密花园</a>
 
 <img src="img/logo.png" width="107px" />
 
-基于<a href="https://nebulas.io/">星云链</a>实现的<a href="https://kreja.github.io/mm">秘密花园</a>，<a href="https://kreja.github.io/mm">写下你的秘密</a>，没有出卖与背叛。
+基于<a href="https://nebulas.io/">星云链</a>实现的<a href="https://kreja.github.io/mm/index.html">秘密花园</a>，<a href="https://kreja.github.io/mm/index.html">写下你的秘密</a>，没有出卖与背叛。
 
 # DEV
 
